@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4400eb33-3f2a-410f-990f-79b9e1bb9a2b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/wallethub.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/lv/vsikhvart/cucumber/enums/Language.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/lv/vsikhvart/cucumber/model/User.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/lv/vsikhvart/cucumber/pageobjects/LoginPage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/lv/vsikhvart/cucumber/pageobjects/WalletHub.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/lv/vsikhvart/cucumber/pageobjects/WalletHubInsurancePage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/lv/vsikhvart/cucumber/pageobjects/WalletHubPage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/lv/vsikhvart/cucumber/pageobjects/WalletLoginPage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/lv/vsikhvart/cucumber/pageobjects/WalletProfilePage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/lv/vsikhvart/cucumber/stepdefs/LoginSteps.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/lv/vsikhvart/cucumber/stepdefs/WalletLoginSteps.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/features/Wallethub.feature" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/lv/vsikhvart/cucumber/config/ApplicationProperties.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
-              <caret line="39" column="79" lean-forward="true" selection-start-line="39" selection-start-column="79" selection-end-line="39" selection-end-column="79" />
+              <caret line="39" column="79" lean-forward="false" selection-start-line="39" selection-start-column="79" selection-end-line="39" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -1120,7 +1105,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/lv/vsikhvart/cucumber/config/ApplicationProperties.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="39" column="79" lean-forward="true" selection-start-line="39" selection-start-column="79" selection-end-line="39" selection-end-column="79" />
+          <caret line="39" column="79" lean-forward="false" selection-start-line="39" selection-start-column="79" selection-end-line="39" selection-end-column="79" />
           <folding />
         </state>
       </provider>
