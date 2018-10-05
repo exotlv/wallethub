@@ -48,8 +48,8 @@ public class ApplicationProperties {
                     setProperty(ApplicationProperty.TEST_DATA.name, " Hello World");
                     setProperty(ApplicationProperty.TEST_DATA2.name, "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsu");
 
-                    //setProperty(ApplicationProperty.TEST_USER_NAME.name, "qawall1235@gmail.com"); 5b3287da4e@mailox.biz
-                    setProperty(ApplicationProperty.TEST_USER_NAME.name, "b615a99331@mailox.biz");
+                    setProperty(ApplicationProperty.TEST_USER_NAME.name, "qawall1235@gmail.com");
+                    setProperty(ApplicationProperty.TEST_USER_NAME2.name, "b615a99331@mailox.biz");
                     setProperty(ApplicationProperty.TEST_USER_PASSWORD.name, "QAtest123");
                     setProperty(ApplicationProperty.TEST_USER_PASSWORD2.name, "QAtest123@");
 
@@ -118,6 +118,7 @@ public class ApplicationProperties {
         CHROME_DRIVER_PATH("chromeDriverPath"),
         GECKO_DRIVER_PATH("geckoDriverPath"),
         TEST_USER_NAME("userName"),
+        TEST_USER_NAME2("userName2"),
         TEST_USER_PASSWORD("userPassword"),
         TEST_USER_PASSWORD2("userPassword2"),
         TEST_DATA("Test"),

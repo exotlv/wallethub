@@ -1,4 +1,4 @@
-@ignore
+@all
 Feature: Facebook Page Testing
 
   Background:

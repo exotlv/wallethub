@@ -15,7 +15,7 @@ public class WalletLoginSteps {
     @Then("^Login - wallet user logs in$")
     public void userLogsInWithWalletHubCredentials() throws Throwable {
         walletLoginPage = new WalletLoginPage();
-        walletLoginPage.login(ApplicationProperties.getString(TEST_USER_NAME), ApplicationProperties.getString(TEST_USER_PASSWORD2));
+        walletLoginPage.login(ApplicationProperties.getString(TEST_USER_NAME2), ApplicationProperties.getString(TEST_USER_PASSWORD2));
     }
 
     @When("^Wallet Login - is displayed$")
